@@ -1,3 +1,10 @@
+## 1.0.0 (2026-09-02)
+
+### 🐛 Bug Fixes
+
+* Correct README punctuation and formatting ([3e21a3c](https://github.com/adderalladmiral/test-actual/commit/3e21a3c9132e7fd8842db60cd4461e49cc943ee5))
+* Merge pull request [#10](https://github.com/adderalladmiral/test-actual/issues/10) from adderalladmiral/dev ([f5d49d2](https://github.com/adderalladmiral/test-actual/commit/f5d49d2c8062b3a5eec83239dda4042a5cb108de))
+
 ## 1.0.0 (2026-08-28)
 
 ### 🐛 Bug Fixes
