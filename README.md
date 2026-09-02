@@ -7,7 +7,7 @@ Seven focused patches: unlock premium features, hide bottom-nav tabs you don't u
 > **For personal, educational use on builds you're authorized to modify.** This repo does not distribute the Journal APK — you provide your own.
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/adderalladmiral/psychonaut-journal-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;7 patches total
+> **[v1.0.0](https://github.com/adderalladmiral/test-actual/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;7 patches total
 <details open>
 <summary>📦 Journal&nbsp;&nbsp;•&nbsp;&nbsp;7 patches</summary>
 <br>
