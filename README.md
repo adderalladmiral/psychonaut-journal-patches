@@ -2,9 +2,7 @@
 
 [Morphe](https://github.com/MorpheApp) patches for [Journal](https://journal.isaakhanimann.com) (`com.isaakhanimann.journal`) — the substance-use tracking app by Isaak Hanimann.
 
-Seven focused patches: unlock premium features, hide bottom-nav tabs you don't use, drop the Feedback section from Settings, trim unused permissions (up to and including all network access), stop the app from talking to RevenueCat's servers entirely, swap in your own substances database, or clone the app to run side by side with a stock install.
-
-> **For personal, educational use on builds you're authorized to modify.** This repo does not distribute the Journal APK — you provide your own.
+Seven focused patches: unlock premium features, hide bottom-nav tabs you don't use, drop the Feedback section from Settings, trim unused permissions (up to and including all network access), stop the app from talking to RevenueCat's servers entirely, swap in your own substances database, or clone the app to run side by side with a stock install..
 
 <!-- PATCHES_START EXPANDED -->
 > **[v1.0.0](https://github.com/adderalladmiral/test-actual/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;7 patches total
