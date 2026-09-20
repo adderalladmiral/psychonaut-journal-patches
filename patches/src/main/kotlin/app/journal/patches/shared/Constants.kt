@@ -14,7 +14,7 @@ object Constants {
         // since the patch below anchors on RevenueCat API shapes, not on
         // obfuscated class/method names that shift between releases.
         targets = listOf(
-            AppTarget(version = null),
+            AppTarget(version = 15.5),
         ),
     )
 }
